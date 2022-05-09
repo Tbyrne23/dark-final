@@ -27,7 +27,7 @@ const Song = () => {
     <h4>Cob's Soul Music</h4>
       </h3>
      <h1>
-      <img alt="ggXRD" className="photo" src={ggXRD}/>
+      <img alt="ggXRD" className="photo1" src={ggXRD}/>
 
       <button onClick={start}>Play</button>
 
