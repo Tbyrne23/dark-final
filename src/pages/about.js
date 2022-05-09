@@ -9,17 +9,18 @@ import HEAVYDAY from "../4-01 HEAVY DAY.mp3";
 
 const Song = () => {
   let audio = new Audio(HEAVYDAY)
-  let audio2 = new Audio(HEAVYDAY)
+  //let audio2 = new Audio(HEAVYDAY)
   let audio3 = new Audio(HEAVYDAY)
   const start = () => {
     audio.play()
   }
   const start2 = () => {
-    audio2.play()
+    window.location.href="http://www.dolekemp96.org/agenda/issues/internet.htm";
   }
   const start3 = () => {
     audio3.play()
   }
+  
   return (
     <div className="Song">
       <h3 className="Title">
