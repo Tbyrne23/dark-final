@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tbyrne23/dark-final/static/css/main.613aa977.css",
+    "main.js": "/Tbyrne23/dark-final/static/js/main.7ef4c439.js",
+    "static/media/4-01 HEAVY DAY.mp3": "/Tbyrne23/dark-final/static/media/4-01 HEAVY DAY.d4c3bb0da50c7f5d537c.mp3",
+    "static/media/ggXRD.jpg": "/Tbyrne23/dark-final/static/media/ggXRD.abba95ec516f44e80159.jpg",
+    "index.html": "/Tbyrne23/dark-final/index.html",
+    "main.613aa977.css.map": "/Tbyrne23/dark-final/static/css/main.613aa977.css.map",
+    "main.7ef4c439.js.map": "/Tbyrne23/dark-final/static/js/main.7ef4c439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.613aa977.css",
+    "static/js/main.7ef4c439.js"
+  ]
+}
