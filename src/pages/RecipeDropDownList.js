@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import { DropDownList } from "@progress/kendo-react-dropdowns";  
   
 // Dropdown categories  
-const categories = ["Blank", "Fav songs",];  
+const categories = ["To access Favorite songs please buy a song slot for $1.99",];  
   
   
 // Results data filtered using categories  
